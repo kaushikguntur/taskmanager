@@ -1,0 +1,11 @@
+com\taskmgr\model\Parent.class
+com\taskmgr\CORSConfig.class
+com\taskmgr\service\TaskManagerServiceImpl.class
+com\taskmgr\SpringBootWebApplication.class
+com\taskmgr\service\TaskManagerService.class
+com\taskmgr\model\Task.class
+com\taskmgr\to\TaskTO.class
+com\taskmgr\dao\ParentDAO.class
+com\taskmgr\controller\TaskManagerRestController.class
+com\taskmgr\dao\TaskDAO.class
+com\taskmgr\util\DateUtils.class
