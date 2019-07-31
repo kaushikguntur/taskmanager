@@ -5,6 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
+/**@author Kaushik
+ * 
+ * *Task Manager Spring Boot Application*/
+
 @SpringBootApplication
 public class SpringBootWebApplication extends SpringBootServletInitializer{
 
